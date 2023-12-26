@@ -68,7 +68,7 @@ function BlogPage() {
         filteredArticles={filteredArticles}
         setSearch={setSearch}
         search={search}
-         />
+        />
     )
 }
 
