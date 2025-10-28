@@ -4,7 +4,7 @@ import { HashLink as NavLink } from 'react-router-hash-link';
 import Typed from 'react-typed';
 import { headerData } from '../../../data/headerData';
 import { socialsData } from '../../../data/socialsData';
-import iyash from './7D4EC674-73F1-470A-8C7C-EF9BD520F81C.jpg'
+import iyash from './WhatsApp Image 2025-10-28 at 10.02.10 PM.jpeg';
 import './landing.css';
 
 import {
