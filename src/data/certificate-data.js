@@ -11,6 +11,8 @@ import certificate9 from "../assets/certificate/Screenshot 2023-12-26 210122.png
 
 import certificate10 from "../assets/certificate/Screenshot 2023-12-26 211059.png";
 
+import certificate11 from  "../assets/certificate/WhatsApp Image 2025-10-28 at 9.59.16 PM.jpeg";
+
 // hello print c++
 
 export const certificateData = [
@@ -51,6 +53,12 @@ export const certificateData = [
     title: "HackerRank Profile",
     image: certificate10,
     link: "https://www.hackerrank.com/profile/yashdesai281",
+  },
+  {
+    id: "11",
+    title: "IT KA Khiladi",
+    image: certificate11,
+    link: "",
   },
 
   
